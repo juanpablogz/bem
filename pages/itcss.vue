@@ -1,4 +1,5 @@
 <template>
+  <div class="container">
   <!-- bloques,elementos, modificares -->
   <!-- bloques componentes de nuestro sitio que queremos reutizar en otra parte -->
   <!-- elementos forman parte del bloque y no significan nada por si solos -->
@@ -26,8 +27,9 @@
         <i class="button_icon fas fa-shopping-cart"></i>
       </a>
     </div>
-	<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
 	</div>
+	<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+  </div>
 </template>
 
 <script>
